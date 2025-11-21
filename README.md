@@ -1,7 +1,8 @@
 # RAG Document Q&A System
 
 A production-ready Retrieval-Augmented Generation (RAG) application for intelligent document question-answering with multi-modal support, built with Streamlit, ChromaDB, and Google Gemini.
- Demo Video
+ 
+** Demo Video**
  I have recorded a complete walkthrough demonstrating the application's capabilities:
   Video Link:   https://www.loom.com/share/3bec484fc7584f87b41de7426ca46673
 ## 🎯 Overview
